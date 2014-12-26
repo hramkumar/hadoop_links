@@ -1,0 +1,20 @@
+hadoop_links
+============
+
+Hadoop Installation Links
+
+Manual Instalation:
+
+For Linux systems - http://hadoop.apache.org/docs/r2.5.0/hadoop-project-dist/hadoop-common/SingleCluster.html
+
+For Ubuntu Systems - http://www.michael-noll.com/tutorials/running-hadoop-on-ubuntu-linux-single-node-cluster/
+
+For Windows OS up till Win 7 - https://wiki.apache.org/hadoop/Hadoop2OnWindows
+
+Using VMs
+
+Cloudera CHD4 or CDH5 - http://www.cloudera.com/content/cloudera/en/documentation/DemoVMs/Cloudera-QuickStart-VM/cloudera_quickstart_vm.html
+
+Hortonworks Sandbox 2.2  - http://hortonworks.com/hdp/downloads/
+
+MapR Sandbox - https://www.mapr.com/products/hadoop-download and http://doc.mapr.com/display/MapR/MapR+Sandbox+for+Hadoop
